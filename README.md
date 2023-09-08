@@ -3,4 +3,5 @@
 
 For further details and explanations about the project kindly refer to the attached PDF file.
 
-[ACPS Project.pdf](https://github.com/abhiace921/ACPS_Project/files/12559668/ACPS.Project.pdf)
+
+![image](https://github.com/abhiace921/ACPS_Project/assets/144450843/776ec589-4c82-4b35-8a99-816601b4c517)
