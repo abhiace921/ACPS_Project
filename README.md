@@ -1,4 +1,6 @@
 # ACPS_Project
 <b>An Automated System for Weed Detection</b> is an integrated system that combines the capabilities of a diligent robot with the artistry of nature to detect weeds and invoke a precise acoustic alert mechanism. The proposed system harmonizes cutting-edge technology with ecological principles, serving as a sentinel for botanical purity in diverse landscapes. Through a sophisticated sensor array and refined visual acuity, the robot discerns the subtle differentiations that distinguish weeds from desirable flora, enabling targeted identification. Upon detecting weeds, a meticulously orchestrated process initiates an acoustic alert. This integration of robotics and ecology represents a significant step towards effective weed management and ecological preservation, bridging the gap between technology and environmental stewardship. Through rigorous experimentation and evaluation, the system showcases its ability to foster harmonious coexistence between nature and intelligent automation, inviting further exploration and application in the field of ecological landscaping and environmental conservation.
 
-For further details and explanations about the project kindly refer to the attached PDF file. ![WhatsApp Image 2023-09-08 at 17 41 11](https://github.com/abhiace921/ACPS_Project/assets/144450843/94786b38-87d3-4785-982f-758b771f01c9)
+For further details and explanations about the project kindly refer to the attached PDF file.
+
+[ACPS Project.pdf](https://github.com/abhiace921/ACPS_Project/files/12559668/ACPS.Project.pdf)
