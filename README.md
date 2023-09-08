@@ -5,4 +5,4 @@ Below is the attached image of the robot that we created. For further details an
 
 
 
-![Screenshot 2023-09-08 174323](https://github.com/abhiace921/ACPS_Project/assets/144450843/b6457a5e-8db1-4c86-92cc-a92c33473afd)
+<p align = "center"> ![Screenshot 2023-09-08 174323](https://github.com/abhiace921/ACPS_Project/assets/144450843/b6457a5e-8db1-4c86-92cc-a92c33473afd) </p>
