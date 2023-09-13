@@ -6,3 +6,6 @@ Below is the attached image of the robot that we created. For further details an
 
 
 <p align = "center"> <img src = "Robot Image.png"> </p>
+
+<p align = "center"> <img src = "ICA23.HEIC"> </p>
+
